@@ -14,5 +14,6 @@ public class GitTest {
 
     public void test1(){
         System.out.println("88888888888");
+        System.out.println("999999999999");
     }
 }
